@@ -1,0 +1,30 @@
+.box{
+    width: 20px;
+    height: 20px;
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid black;
+   display: inline-block;
+   margin-top: 11%;
+}
+div {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
